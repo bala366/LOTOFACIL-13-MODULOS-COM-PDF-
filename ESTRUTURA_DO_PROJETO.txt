@@ -1,0 +1,24 @@
+LOTOFACIL_6_MODULOS/
+├── .github/
+│   └── workflows/
+│       └── main.yml
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── java/
+│           │   └── br/com/lotofacil/completo/
+│           │       ├── MainActivity.java
+│           │       └── CoreEngine.java
+│           └── res/
+│               ├── drawable/
+│               │   └── ic_launcher.xml
+│               └── values/
+│                   ├── colors.xml
+│                   └── styles.xml
+├── build.gradle.kts
+├── gradle.properties
+├── settings.gradle.kts
+├── LEIA_PRIMEIRO.txt
+└── ESTRUTURA_DO_PROJETO.txt

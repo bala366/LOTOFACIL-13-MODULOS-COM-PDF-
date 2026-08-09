@@ -1,0 +1,25 @@
+LOTOFÁCIL CAMPEÃO — 13 MÓDULOS
+
+CORREÇÃO:
+O nome visível do aplicativo agora é LOTOFÁCIL 13 MÓDULOS.
+Não ficará mais aparecendo como 6 módulos.
+
+MÓDULO 12 — MEU JOGO / CLASSIFICADOR
+Digita 15 dezenas, classifica por padrões e gera PDF.
+
+MÓDULO 13 — SIMILARIDADE + EVOLUÇÃO
+Procura resultados históricos parecidos com o último, variando 1 a 3 dezenas,
+mede a evolução posterior, ranqueia e gera jogos evoluídos.
+
+PDF:
+Downloads/LOTOFACIL_PDF
+
+Visual:
+Roxo com trevo branco.
+
+
+IDENTIFICAÇÃO DOS JOGOS
+Cada jogo agora mostra claramente o módulo de origem:
+JOGO DO MÓDULO 1, JOGO DO MÓDULO 2 ... JOGO DO MÓDULO 13.
+O PDF também mostra o número do módulo.
+O arquivo é salvo como LOTOFACIL_MODULO_X_<timestamp>.pdf.
